@@ -73,6 +73,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-Blue?style=for-the-badge&logo=github" alt="Pull Shark Badge" />
+  <img src="https://img.shields.io/badge/YOLO-Orange?style=for-the-badge&logo=python" alt="YOLO Badge" />
+  <img src="https://img.shields.io/badge/QuickDraw-Red?style=for-the-badge&logo=python" alt="QuickDraw Badge" />
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maisha0055&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=maisha0055&theme=radical&hide_border=false)<br/>
