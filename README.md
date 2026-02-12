@@ -73,19 +73,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 🏆 Achievements
-
-<p align="center">
-  <a href="https://github.com/yourusername/pull-shark" target="_blank">
-    <img src="https://img.shields.io/badge/Pull%20Shark-🐟-blue?style=for-the-badge" alt="Pull Shark Badge"/>
-  </a>
-  <a href="https://github.com/yourusername/yolo" target="_blank">
-    <img src="https://img.shields.io/badge/YOLO-👀-orange?style=for-the-badge" alt="YOLO Badge"/>
-  </a>
-  <a href="https://github.com/yourusername/quickdraw" target="_blank">
-    <img src="https://img.shields.io/badge/QuickDraw-✏️-red?style=for-the-badge" alt="QuickDraw Badge"/>
-  </a>
-</p>
 
 
 
