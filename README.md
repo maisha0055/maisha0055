@@ -76,10 +76,17 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-Blue?style=for-the-badge&logo=github" alt="Pull Shark Badge" />
-  <img src="https://img.shields.io/badge/YOLO-Orange?style=for-the-badge&logo=python" alt="YOLO Badge" />
-  <img src="https://img.shields.io/badge/QuickDraw-Red?style=for-the-badge&logo=python" alt="QuickDraw Badge" />
+  <a href="https://github.com/yourusername/pull-shark" target="_blank">
+    <img src="https://img.shields.io/badge/Pull%20Shark-🐟-blue?style=for-the-badge" alt="Pull Shark Badge"/>
+  </a>
+  <a href="https://github.com/yourusername/yolo" target="_blank">
+    <img src="https://img.shields.io/badge/YOLO-👀-orange?style=for-the-badge" alt="YOLO Badge"/>
+  </a>
+  <a href="https://github.com/yourusername/quickdraw" target="_blank">
+    <img src="https://img.shields.io/badge/QuickDraw-✏️-red?style=for-the-badge" alt="QuickDraw Badge"/>
+  </a>
 </p>
+
 
 
 # 📊 GitHub Stats:
