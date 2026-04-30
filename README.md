@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm MAISHA</h1>
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=34&duration=2500&pause=3000&color=C0A060&center=true&repeat=false&width=680&height=65&lines=greetings%2C++i%27m+maisha." alt="greeting" />
+</a>
+<br/>
 
 <table width="100%">
   <tr>
