@@ -79,17 +79,18 @@
 
 
 
-
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maisha0055&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maisha0055&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisha0055&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisha0055&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisha0055&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=maisha0055&theme=tokyonight"/>
+
+</div>
